@@ -1,7 +1,5 @@
 ### Hey! I'm Fabian 👋
 
----
-
 I'm a Full-stack Web Developer!
 
 ---
@@ -36,6 +34,7 @@ I'm a Full-stack Web Developer!
 [<img align="left" alt="vallejosdev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="fabianvallejos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br/>
 ---
 
 Let's connect 👨‍💻 and create great things together.😁✌
